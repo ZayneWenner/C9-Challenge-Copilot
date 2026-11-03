@@ -1,0 +1,113 @@
+{
+  "ok": true,
+  "submissions": [
+    {
+      "submission_id": "sub-20261007023414-2c9b89f9",
+      "challenge_id": "ch-20260717031343-8ot0ji",
+      "project_title": "面向可靠 AI 数学的自然语言到可验证推理：语义归约框架",
+      "github_repo_url": "https://github.com/ZayneWenner/ai-for-math-paper",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-07T02:34:14.735Z"
+    },
+    {
+      "submission_id": "sub-20261103080316-cd861b3c",
+      "challenge_id": "ch-20260717031528-w43gy7",
+      "project_title": "C6A 提交数据仪表盘：我的 EduSeed 提交进度看板",
+      "github_repo_url": "https://github.com/ZayneWenner/C6A-Submission-Dashboard",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T08:03:16.446Z"
+    },
+    {
+      "submission_id": "sub-20261103123832-7f49f6b2",
+      "challenge_id": "ch-20260717031503-ihozqu",
+      "project_title": "C5 GitHub Repository：localmap-agent 本地地图 Agent",
+      "github_repo_url": "https://github.com/ZayneWenner/localmap-agent",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T12:38:32.250Z"
+    },
+    {
+      "submission_id": "sub-20261006131826-e4408394",
+      "challenge_id": "ch-20260717031336-pxzwy0",
+      "project_title": "C1 课程资料获取与翻译（Stanford Vibe Coding 课程中文译介包）",
+      "github_repo_url": "https://github.com/ZayneWenner/stanford-vibe-coding-zh",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-06T13:18:26.413Z"
+    },
+    {
+      "submission_id": "sub-20261103072349-a887eacc",
+      "challenge_id": "ch-20260717031455-uzqs9k",
+      "project_title": "C4D 本地大模型 Agent 技能",
+      "github_repo_url": "https://github.com/ZayneWenner/C4D-Local-LLM-Agent-Skill",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T07:23:49.947Z"
+    },
+    {
+      "submission_id": "sub-20261103073305-aa8bf1ab",
+      "challenge_id": "ch-20260717031511-x5c6t1",
+      "project_title": "C5A GitHub 入门与仓库理解：anthropics/skills 仓库分析",
+      "github_repo_url": "https://github.com/ZayneWenner/C5A-GitHub-Repo-Analysis",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T07:33:05.379Z"
+    },
+    {
+      "submission_id": "sub-20261008024143-1873e4c3",
+      "challenge_id": "ch-20260717031432-5jvqje",
+      "project_title": "C4A 技能提交自动评审：Skill 评审器",
+      "github_repo_url": "https://github.com/ZayneWenner/C4A-Skill-Evaluator",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-08T02:41:43.088Z"
+    },
+    {
+      "submission_id": "sub-20261008110550-fdeb0d27",
+      "challenge_id": "ch-20260717031440-bp05rs",
+      "project_title": "挑战_C4B 公众号文章生成技能",
+      "github_repo_url": "https://github.com/ZayneWenner/C4B-WeChat-Article-Skill",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-08T11:05:50.542Z"
+    },
+    {
+      "submission_id": "sub-20261008142603-a4bf6384",
+      "challenge_id": "ch-20260717031447-k82c4m",
+      "project_title": "C4C 作业自动求解与排版",
+      "github_repo_url": "https://github.com/ZayneWenner/C4C-Homework-Solver-Pipeline",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-08T14:26:03.472Z"
+    },
+    {
+      "submission_id": "sub-20261103131017-d27aefec",
+      "challenge_id": "ch-20260717031519-qqqx60",
+      "project_title": "C6 Web Application：交付物体检站",
+      "github_repo_url": "https://github.com/ZayneWenner/C6-Deliverable-Checker",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T13:10:17.430Z"
+    },
+    {
+      "submission_id": "sub-20261103071444-b40b553e",
+      "challenge_id": "ch-20260717031424-4cdgor",
+      "project_title": "口播脚本生成器（koubo-script-generator）· C4 技能分享与传播",
+      "github_repo_url": "https://github.com/ZayneWenner/C4-Koubo-Script-Generator",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-11-03T07:14:44.962Z"
+    },
+    {
+      "submission_id": "sub-20261006173800-d7c4296d",
+      "challenge_id": "ch-20260717031352-tlg70p",
+      "project_title": "MetaScope：已知-未知边界元认知校准基准",
+      "github_repo_url": "https://github.com/ZayneWenner/C2A-MetaScope-AGI-metacognition",
+      "status": "checked",
+      "task_state": "pending_teacher_review",
+      "submitted_at": "2026-10-06T17:38:00.549Z"
+    }
+  ]
+}
