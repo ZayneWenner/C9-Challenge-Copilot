@@ -1,0 +1,194 @@
+{
+  "ok": true,
+  "challenges": [
+    {
+      "challenge_id": "ch-20260717031407-ez6fae",
+      "title": "C3 群内高质量参与",
+      "status": "published",
+      "brief": "在群内进行高质量提问、反思、推动讨论——成为思考驱动者而非潜水者。",
+      "objective": "- 学会写\"高质量问题\"：含上下文、已尝试方案、具体卡点（而不是甩一句\"报错了\"）；\n- 学会用证据说话：贴日志、贴截图、贴最小复现，让群友能真的帮上忙；\n- 完成一次\"问题提出 → 讨论 → 结论沉淀\"的完整参与闭环，并把结论回馈给群；\n- 形成\"先搜索、先自查、再提问\"的习惯（提问前先问过 AI 和自己）。",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*AI日志*,*AAR*,*反思*"
+    },
+    {
+      "challenge_id": "ch-20260717031336-pxzwy0",
+      "title": "C1 课程资料获取与翻译",
+      "status": "published",
+      "brief": "全量翻译 Stanford Vibe Coding 课程——从获取到翻译到发布，完整的信息获取与处理管线。Phase 1 选拔第一关。",
+      "objective": "- 建立完整的信息获取管线：定位一手来源（课程官网 / 讲义 / 视频字幕 / GitHub），批量抓取并归档；\n- 组织\"机器翻译 + 术语表 + 人工校对\"的翻译流程，产出质量可控的中文版本；\n- 学会用 AI 批量处理长文本：分段、术语统一、格式保持、质量抽检；\n- 以可复用的方式发布成果（GitHub 仓库 / 文档站），让下一批同学零成本复用。",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "README.md,*AI日志*,*AAR*,*拿来说明*"
+    },
+    {
+      "challenge_id": "ch-20260717031343-8ot0ji",
+      "title": "C2 AI for Math 论文",
+      "status": "published",
+      "brief": "围绕 AI4Math 可靠性框架撰写一篇可投稿 LaTeX 学术论文——证明你能产出学术级别的成果。",
+      "objective": "- 完成一次\"AI 辅助学术研究\"闭环：选题、文献检索、框架构建、写作、LaTeX 排版；\n- 学会用 AI 做文献综述与批判性阅读（对比、找漏洞、找共识），而非搬运摘要；\n- 掌握 LaTeX 学术论文规范（结构、引用、图表、公式），产出可编译的 paper.tex；\n- 对\"AI 结论可信度\"形成自己的判断框架（搜索验证 / 形式化 / 可复现评估）。",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "paper.tex,references.bib,*AI日志*,*AAR*"
+    },
+    {
+      "challenge_id": "ch-20260717031352-tlg70p",
+      "title": "C2A / C9：衡量 AGI 的认知能力",
+      "status": "published",
+      "brief": "**性质：** Elite 20 录取评审的重要组成部分",
+      "objective": "- 设计指标清晰、基线合理的基准方案\n- 论证基准的科学性（信度/效度/防作弊）\n- 产出可执行的竞赛提案文档\n- 理解评测设计的常见陷阱",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*proposal*,*benchmark*,*AI日志*,*AAR*"
+    },
+    {
+      "challenge_id": "ch-20260717031447-k82c4m",
+      "title": "C4C 作业自动求解与排版",
+      "status": "published",
+      "brief": "🔥 C4 的终极进阶——不是做一个小工具，而是构建一条**完整的自动化流水线**。",
+      "objective": "- 实现可核验的自动求解器\n- 输出排版规范的答案\n- 处理边界情况并评估正确率\n- 沉淀为可复用技能",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*方案设计*,*homework-solver*,*output*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031553-t2892g",
+      "title": "C9 Self-Initiated Project（自驱项目）",
+      "status": "published",
+      "brief": "**C8 证明你能\"完成别人给的任务\"，C9 证明你能\"定义并完成自己的任务\"。**",
+      "objective": "- 定义有价值且可交付的选题\n- 拆解里程碑并持续推进\n- 建立自我验收标准\n- 复盘自驱项目的动力与阻力",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*proposal*,*AAR_W*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031503-ihozqu",
+      "title": "C5 GitHub Repository",
+      "status": "published",
+      "brief": "**目标：建立公开、可验证的技术能力。**",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "README.md,*repo链接*,*AI日志*,*拿来说明*"
+    },
+    {
+      "challenge_id": "ch-20260717031511-x5c6t1",
+      "title": "C5A GitHub 入门与仓库理解",
+      "status": "published",
+      "brief": "🔥 C5 的起点——学会使用全球最大的代码协作平台。",
+      "objective": "- 理解 Git 数据模型与常用工作流\n- 规范使用 commit/branch/PR\n- 能独立排错常见问题\n- 读懂他人仓库的结构",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*仓库分析*,README.md,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031519-qqqx60",
+      "title": "C6 Web Application",
+      "status": "published",
+      "brief": "**目标：构建真实可运行的产品，不是 demo。**",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*app链接*,*demo*,*repo链接*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031536-sfz852",
+      "title": "C7 内容传播",
+      "status": "published",
+      "brief": "**目标：构建个人影响力。**",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*文章标题*,*数据截图*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031601-4cwlrx",
+      "title": "C10 Build Your Own Agent（构建你的长期智能体 / 第二大脑）",
+      "status": "published",
+      "brief": "**C10 不是一个项目，而是你未来十年的\"能力基础设施\"。**",
+      "objective": "- 实现五层架构（接口/工具/循环/技能/记忆）\n- 落地 KSTAR 四层记忆\n- 把重复任务抽象为可调用技能\n- 让系统每次使用都在进化",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "AGENT.md,*architecture*,*AAR*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031528-w43gy7",
+      "title": "C6A 提交数据仪表盘",
+      "status": "published",
+      "brief": "🔥 从评审者到系统构建者——不只是看别人的作业，而是构建一个**管理所有人作业的系统**。",
+      "objective": "- 明确口径与权威数据源\n- 产出传达力强的可视化\n- 从数据中提炼有据洞察\n- 复盘数据口径选择的坑",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*仪表盘*,*demo*,*数据*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031440-bp05rs",
+      "title": "C4B 公众号文章生成技能",
+      "status": "published",
+      "brief": "🔥 C4 的另一条进阶路线——不是评审技能，而是**创造内容发布流水线**。",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*wechat-publisher*,*文章链接*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031415-0vi5d1",
+      "title": "C3C 双人协作与技能迁移",
+      "status": "published",
+      "brief": "🔥 不是两个人各做一半——是两个人互相教会对方原本不会的东西。",
+      "objective": "- 完成一次分工清晰的双人协作\n- 产出联合成果并互检\n- 迁移复用对方的至少一个技能\n- 复盘协作与迁移的有效性",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*协作记录*,*联合成果*,*AI日志*,*AAR*"
+    },
+    {
+      "challenge_id": "ch-20260717031432-5jvqje",
+      "title": "C4A 技能提交自动评审",
+      "status": "published",
+      "brief": "🔥 C4 的进阶挑战——不是**做**一个技能，而是**评审**所有人的技能。",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*方案设计*,*skill-evaluator*,*评审报告*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031544-7vw0rn",
+      "title": "C8 Real-World Project Execution（真实项目落地）",
+      "status": "published",
+      "brief": "**C1–C7 是在证明你\"会\"，C8 是在证明你\"能做成\"。**",
+      "objective": "- 明确真实需求与验收标准\n- 在真实约束下完成交付\n- 建立交付-反馈-迭代闭环\n- 复盘真实项目与练习的差异",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*proposal*,*AAR_W*,*AI日志*,*拿来说明*"
+    },
+    {
+      "challenge_id": "ch-20260717031359-b8wyg0",
+      "title": "C2G 参数高尔夫 —— 极限约束下的语言模型训练",
+      "status": "published",
+      "brief": "🔥 **这不是作业，这是全球顶级 AI 实验室的招聘入场券。**",
+      "objective": "- 在预算内达成目标分数并有记录\n- 形成可解释的调参方法论\n- 掌握对照实验与边际提升策略\n- 复盘每个策略的贡献",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*方案草案*,*方案设计*,*AI日志*,*AAR*"
+    },
+    {
+      "challenge_id": "ch-20260717031455-uzqs9k",
+      "title": "C4D 本地大模型 Agent 技能",
+      "status": "published",
+      "brief": "🔥 C4 的硬核分支——不依赖云端 API，在你自己的电脑上跑大模型，驱动 Agent 技能。",
+      "objective": "- 完成本地大模型部署\n- 构建具备记忆与技能的 Agent\n- 验证 Agent 能力可用\n- 对比本地与云端方案的取舍",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*Agent技能*,*demo*,*AI日志*,*AAR*"
+    },
+    {
+      "challenge_id": "ch-20260717031424-4cdgor",
+      "title": "C4 技能分享与传播",
+      "status": "published",
+      "brief": "🔥 这是整个 Elite20 体系**最关键的挑战**。",
+      "objective": "- --",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*skill说明*,*.skill,*教学说明*,*demo*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260717031609-rnur5a",
+      "title": "C10H 安装并驾驭 Hermes Agent",
+      "status": "published",
+      "brief": "🔥 你的第一个真正的 AI 智能体——不是聊天机器人，是一个会学习、会记忆、会跨平台工作的数字分身。",
+      "objective": "- 完成安装与配置并有记录\n- 能独立排错常见问题\n- 完成个性化扩展\n- 复盘驾驭外部 Agent 的方法论",
+      "deadline": "2026-12-31T23:59",
+      "required_deliverables": "*安装记录*,*配置说明*,*demo*,*AI日志*"
+    },
+    {
+      "challenge_id": "ch-20260904104535-14aac163",
+      "title": "T0 发布流程测试（请忽略）",
+      "status": "published",
+      "brief": "⚠️ 测试挑战：仅用于验证「教师发布 → 学生可见 → 提交评分」的完整链路。无需认真完成，验证后请忽略本条。",
+      "objective": "- 验证新教师账号可成功发布挑战；\n- 验证学生端可见性与提交流程；\n- 验证 AI 初评与教师终审链路。",
+      "deadline": "2026-09-06T23:59",
+      "required_deliverables": "README.md"
+    }
+  ]
+}
